@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GANESAN P V</h1>
 <h3 align="center">Student Developer | Building Projects, Breaking Bugs</h3>
 
-- 🌱 I’m currently learning **Tensorflow, Linux commands, CSS**
+- 🌱 I’m currently learning **Tensorflow, Linux commands, CSS , Machine learning**
 
 - 💬 Ask me about **Reach Out for Python & C Queries | Always Happy to Help**
 
