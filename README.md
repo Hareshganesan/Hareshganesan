@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Reach Out for Python & C Queries | Always Happy to Help**
 
-- 📫 How to reach me **hareshganesan1@gmail.com**
+- 📫 How to reach me ? : **hareshganesan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
